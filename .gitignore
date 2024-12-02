@@ -1,1 +1,7 @@
 __init__.py
+.idea/
+env/
+venv/
+.venv/
+__pycache__/
+env
